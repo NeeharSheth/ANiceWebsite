@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+.line{
+   background-color: black;
+       height: 7px;
+    width: 100px;
+ margin-left: 620px;
+    
+}
+#app{
+    height: 800px;
+    width: 100%;
+}
